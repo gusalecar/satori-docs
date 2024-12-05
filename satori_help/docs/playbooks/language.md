@@ -106,5 +106,9 @@ The `import` keyword is not mandatory. You can place the import section anywhere
 Satori performs schema validation on your Playbook as soon as it is received, ensuring that the syntax and grammar are correct. If any errors are detected, either from user input or system issues, you will be promptly informed.
 The error will be shown when viewing your report with `satori report REPORTID` command or from the **Reports** section of the Satori Web.
 
+## Submitting your playbooks
+
+Head to the [playbook repository](https://github.com/satorici/playbooks) for a guide.
+
 ---
 If you need any help, please reach out to us on [Discord](https://discord.gg/NJHQ4MwYtt) or via [Email](mailto:support@satori-ci.com)
